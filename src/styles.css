@@ -9,7 +9,7 @@ body {
 
 .grid {
   display: grid;
-  grid-gap: 64px;
+  grid-gap: 40px;
 }
 
 .img-responsive {
@@ -40,7 +40,7 @@ body {
 
 .card {
   background: white;
-  margin: 30px;
+  margin: 10px;
 }
 
 .card-header.grid {
