@@ -16,6 +16,9 @@ body {
   width: 100%;
   display: block;
 }
+.text-centre {
+  text-align: center;
+}
 
 .card-header img {
   aspect-ratio: 1/1;
